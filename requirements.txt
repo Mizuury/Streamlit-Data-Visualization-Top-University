@@ -1,8 +1,5 @@
 streamlit
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
 seaborn
-plotly.graph_objects
-plotly.offline
-plotly.express
